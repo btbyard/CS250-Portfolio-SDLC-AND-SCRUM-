@@ -1,4 +1,4 @@
-# CS250-Portfolio-SDLC-AND-SCRUM-
+# CS250-Portfolio-SDLC-AND-SCRUM
 Software development lifecycle and using Scrum and agile development
 
 This project was a good expierence because it implemented user needs into a program. In this project the product owner met with the client and with three common users. The user "stories" explained what the users said they would like to see in the program. This was nice because they are the market. They are the ones who will be using the completed software so appracohing this and basing the program on their wants and needs, while fulfilling client requirements is a great method. 
